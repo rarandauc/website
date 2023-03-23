@@ -1,0 +1,13 @@
+input:invalid {
+    border-color: #ffddf9;
+  }
+
+  /*
+ input:required {
+    border-color: #800000;
+    border-width: 0,5px;
+  }
+*/
+  input:required:invalid {
+    border-color: #bdc000;
+  }
